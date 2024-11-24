@@ -1,1 +1,2 @@
-# Hit-Studios
+# Hit-Studios  
+<img src='./hitfire.gif'>
